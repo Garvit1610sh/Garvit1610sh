@@ -1,3 +1,4 @@
+![logo](https://github.com/Garvit1610sh/Garvit1610sh/blob/main/Blue%20and%20Purple%20Cyberpunk%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Garvit Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src = "https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
