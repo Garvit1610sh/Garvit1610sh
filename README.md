@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvit1610sh&label=Profile%20views&color=0e75b6&style=flat" alt="garvit1610sh" /> </p>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18MJmwEBo1H263GlDUECqSeOXUJbqiZUx/view?usp=share_link](https://drive.google.com/file/d/18MJmwEBo1H263GlDUECqSeOXUJbqiZUx/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18MJmwEBo1H263GlDUECqSeOXUJbqiZUx/view?usp=share_link](https://drive.google.com/file/d/10cQdsLOwtnIYQS_YHDOi9K85DGZ42SIX/view?usp=share_link)
 
 - ⚡ Fun fact **I am an Entertaining Developer**
 
